@@ -6,4 +6,4 @@
 
 - 😄 Pronouns: He/his
  
-<img src="https://github-readme-stats.vercel.app/api?username=shreshthajit&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=00FFFF">
+<img src="https://github-readme-stats.vercel.app/api?username=shreshthajit&&show_icons=true&title_color=154360&icon_color=bb2acf&text_color=151515&bg_color=00FFFF">
