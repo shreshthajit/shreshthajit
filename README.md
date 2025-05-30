@@ -15,7 +15,7 @@
 ## Interests
 - #### CP
 - #### Backend development
-- #### ML
+- #### ML-DL
 - #### DevOps
 
 ## Familiar With
