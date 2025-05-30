@@ -14,7 +14,7 @@
 
 ## Interests
 - #### CP
-- #### Web development
+- #### Backend development
 - #### ML
 - #### DevOps
 
@@ -22,9 +22,9 @@
 - #### Languages : C++, C,java,python,javascript
 - #### Operating System : Windows,Linux
 - #### Version Control : Git & Github
-- #### Web Backend : NodeJs , ExpressJs
-- #### Database : MongoDB
-- #### Web Frontend : React,Angular
+- #### Web Backend : Django, Flask, NodeJs , ExpressJs
+- #### Database : MySQL, Postgres, MongoDB
+- #### Web Frontend : React, Angular
 - #### DevOps : Docker
 - #### CP
 
