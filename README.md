@@ -22,7 +22,7 @@
 - #### Languages : C++, C,java,python,javascript
 - #### Operating System : Windows,Linux
 - #### Version Control : Git & Github
-- #### Web Backend : Django, Flask, NodeJs , ExpressJs
+- #### Web Backend : NodeJs , ExpressJs, NestJs, Java, Django.
 - #### Database : MySQL, Postgres, MongoDB
 - #### Web Frontend : React, Angular
 - #### DevOps : Docker
